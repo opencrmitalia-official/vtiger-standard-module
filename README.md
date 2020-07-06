@@ -1,0 +1,1 @@
+# vtiger-standard-module
